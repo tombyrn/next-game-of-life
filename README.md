@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next Game of Life
+Implementation of Conway's Game of Life as a web application using the Next.js Framework.
 
-## Getting Started
+## To Run
 
 First, install npm packages:
 
@@ -13,5 +14,7 @@ Then run development server:
 ```bash
 npm run dev
 ```
+
+![Screenshot](./screenshot.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
